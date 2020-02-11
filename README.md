@@ -9,3 +9,6 @@ In this project have been calculated and displayed the results of the following 
 - Count the number of queries (also called page views or PVs) of each minute, and plot the minute-level PVs with a line chart (x axis for date time and y axis for the PVs). 
 - Count the PVs of each province, and plot it with a histogram chart (x axis for province and y axis for PVs). 
 - Count the PVs of each UA, and plot it with a pie chart (show the percentages in the chart).
+
+Project report:
+- https://davideliu.com/2019/10/22/visualization-and-analysis-of-web-engine-data/
